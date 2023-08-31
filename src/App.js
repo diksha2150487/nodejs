@@ -8,6 +8,9 @@ import img7 from "./images/mvp-com.png";
 import img8 from "./images/scure.png";
 import img9 from "./images/group-part.png";
 import img10 from "./images/dark-img.png";
+import img11 from "./images/Group 1000009195.png";
+import img12 from "./images/Group 1000009196.png";
+import img13 from "./images/Group 1000009197.png";
 import "./App.css";
 function App() {
   return (
@@ -210,7 +213,7 @@ function App() {
           DISCUSS YOUR CUSTOM REQUIREMENTS
         </div>
       </div>
-      {/* ****************************************************************************************************************************** */}
+      {/* **************************************************************************************** */}
       <div className="node-js-contable5-main-section">
         <p className="looft-roz">
           What can you build with<span className="sitopo">Node js?</span>
@@ -248,7 +251,63 @@ function App() {
           </div>
         </div>
       </div>
-      {/* ********************************************************************************** */}
+      {/* *************************************************************************** */}
+      <div className="npde-jsx-cont6-part12">
+        <p className="solotal">
+          Discover our Node.js development service
+          <span className="ceo-joro-cwpl">solutions</span>
+        </p>
+        <p className="vijo-palota">
+          Engage with dedicated developers from 50+ countries and enhance your
+          team’s capabilities with skilled Node.js professionals. You can
+          integrate our developers into your existing team as full-time
+          contributors or entrust the end-to-end development process to our
+          multi-competent team.
+        </p>
+        <div className="nodes-jsx-left-door-doll">
+          <div className="looft-softy-cont">
+            <div className="limena-box-extyend">
+              <p className="ronadioyo">Team Extension</p>
+              <p className="kipoq">
+                Solve your business challenges by introducing our skilled
+                Node.js developers to your team. Work with a leading Node.js
+                development company and hire as many professionals as required
+                to achieve your goals.
+              </p>
+            </div>
+            <p className="coll-27-text-56">end-to-end engagement</p>
+          </div>
+          <div className="nodes-jsx-promy-right-lorge">
+            <div className="right-circle-part-img">
+              <img src={img11} alt="logo" className="goal-circle"></img>
+              <hr className="high-quality-joo" />
+              <img src={img12} alt="logo" className="goal-circle"></img>
+              <hr className="high-quality-joo" />
+              <img src={img13} alt="logo" className="goal-circle"></img>
+            </div>
+          </div>
+          <div className="section-angle-part-time">
+            <p className="jio-cenamea-sut">01</p>
+            <p className="xozo">scope</p>
+            <p className="quit-mahala">
+              Our team is here to help you define your goals and objectives.
+            </p>
+            <p className="jio-cenamea-sut">02</p>
+            <p className="xozo">interview</p>
+            <p className="quit-mahala">
+              You will be presented with CVs of potential candidates and
+              interview the people who will join your team.
+            </p>
+            <p className="jio-cenamea-sut">03</p>
+            <p className="xozo">kick-off</p>
+            <p className="quit-mahala">
+              Onboard your new teammates as they seamlessly integrate into your
+              process from start to finish.
+            </p>
+          </div>
+        </div>
+      </div>
+      {/* ****************************************************************************************************************************** */}
       <div className="nodes-js-cont7-perfect-main">
         <div className="jsx-left-perfect-part">
           <p className="letest-view">Not sure where to start?</p>
@@ -378,19 +437,6 @@ function App() {
         <div className="jio-slopo-odit">LET’S TALK</div>
       </div>
       {/* ******************************************************************************************************************************************************************* */}
-      <div className="npde-jsx-cont6-part12">
-        <p className="solotal">
-          Discover our Node.js development service
-          <span className="ceo-joro-cwpl">solutions</span>
-        </p>
-        <p className="vijo-palota">
-          Engage with dedicated developers from 50+ countries and enhance your
-          team’s capabilities with skilled Node.js professionals. You can
-          integrate our developers into your existing team as full-time
-          contributors or entrust the end-to-end development process to our
-          multi-competent team.
-        </p>
-      </div>
     </div>
   );
 }
